@@ -37,7 +37,7 @@ function main (cmd, opts) {
     usage()
   }
 
-  co(hydraform, opts).then(function (entry) {
+  co(hydraform, '', opts).then(function (entry) {
     console.log(entry)
   })
 }
