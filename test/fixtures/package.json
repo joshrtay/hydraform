@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "hydra": {
+    "dir": "hydra"
+  },
+  "dependencies": {
+    "node-lambda-zip": "^1.0.1"
+  }
+}
