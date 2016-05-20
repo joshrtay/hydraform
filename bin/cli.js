@@ -33,8 +33,9 @@ function main (cmd, opts) {
     return
   }
 
-  if (!cmd) {
+  if (cmd) {
     usage()
+    return
   }
 
   co(hydraform, '', opts).then(function (entry) {
