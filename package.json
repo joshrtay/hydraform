@@ -14,6 +14,7 @@
   "dependencies": {
     "@f/defaults": "^1.0.1",
     "@f/flatten-gen": "^2.0.0",
+    "@f/is-object": "^1.1.4",
     "@f/require-content": "^1.0.2",
     "co": "^4.6.0",
     "envitro": "^1.0.1",
