@@ -2,7 +2,7 @@
   "name": "hydraform",
   "description": "Modular infrastructure built on terraform.",
   "repository": "git://github.com/joshrtay/hydraform.git",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
