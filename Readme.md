@@ -14,8 +14,7 @@ Build tool and npm module management for terraform.
 
 ## Setup
 
-Create a module by placing terraform files in hydra directory inside of node module. NPM
-handles the rest.
+Create a module by running `npm init` and then placing terraform files in a `hydra` directory. Then just use npm to install modules.
 
 ## Build step
 
